@@ -1,0 +1,1001 @@
+Year,Month,Category,Region,Units_Sold,Revenue,Profit,Customer_Rating,Ad_Spend
+2020,April,Home Decor,North,485,94360.58,25442.39,1.5,174.51
+2021,October,Fashion,South,95,14081.4,3457.23,3.5,3975.18
+2022,February,Groceries,East,182,13700.5,3985.61,3.4,1929.31
+2020,April,Fashion,South,419,81856.23,20726.68,2.8,3706.92
+2020,September,Beauty Products,North,469,51810.41,5624.12,2.9,2362.07
+2021,March,Home Decor,North,127,13621.99,1581.6,2.8,3412.09
+2020,December,Home Decor,North,190,6439.93,1767.44,2.3,799.25
+2021,September,Groceries,North,124,5850.86,1739.79,1.6,560.17
+2022,December,Books,East,93,2786.24,756.29,1.9,1089.83
+2023,February,Books,West,43,7338.19,1452.8,2.2,2668.78
+2021,April,Fashion,West,354,6720.94,1747.56,1.4,1422.65
+2023,July,Fashion,South,409,4092.73,1218.1,4.6,1329.19
+2022,January,Electronics,East,256,5863.97,1574.05,2.2,3327.72
+2024,September,Home Decor,North,287,26345.19,6822.97,1.9,4403.11
+2022,August,Fashion,West,283,28070.84,5373.32,3.8,4175.27
+2023,September,Home Decor,West,384,38287.41,6894.6,4.1,4825.21
+2023,September,Groceries,West,220,21045.26,6102.27,1.1,3036.6
+2023,September,Electronics,West,49,6759.51,696.32,4.2,2979.79
+2024,January,Books,North,113,13522.83,2033.34,1.1,2527.13
+2020,February,Home Decor,South,347,46203.45,7359.0,4.3,4540.45
+2021,June,Fashion,West,400,22018.29,4825.24,4.9,3201.09
+2024,December,Electronics,South,346,41810.49,9999.55,3.9,404.29
+2024,June,Electronics,West,111,21734.43,4356.58,1.1,318.91
+2020,June,Electronics,East,226,29221.25,7266.31,2.3,4317.71
+2021,October,Fashion,West,31,2753.46,361.86,1.5,947.41
+2024,December,Books,North,313,51145.35,7860.27,4.0,2856.29
+2024,January,Groceries,South,199,4415.14,1166.15,3.2,2962.36
+2022,May,Groceries,South,104,9469.76,2598.29,4.4,489.83
+2022,November,Groceries,South,493,64152.93,17643.91,3.6,1781.54
+2023,July,Beauty Products,West,451,85527.43,24716.61,4.7,792.19
+2021,October,Groceries,South,113,19979.99,4489.14,5.0,281.05
+2024,December,Groceries,East,260,8203.08,2323.19,3.3,1784.33
+2023,April,Groceries,East,379,6301.48,695.66,4.2,3461.11
+2020,February,Beauty Products,North,109,8281.69,1947.11,1.7,2195.26
+2024,September,Beauty Products,West,497,75536.06,9936.01,4.6,2755.04
+2022,June,Beauty Products,North,119,11328.09,1236.26,2.3,1831.44
+2024,June,Beauty Products,South,135,25747.65,4005.03,2.6,687.07
+2023,February,Home Decor,North,485,70031.97,16859.47,4.5,3807.15
+2021,July,Electronics,West,384,15346.9,4457.36,4.1,3220.82
+2020,June,Home Decor,North,273,28686.07,6312.85,3.0,4811.97
+2023,February,Electronics,South,75,4110.48,1199.2,3.4,378.87
+2022,June,Electronics,South,111,3250.98,798.13,1.0,2175.39
+2020,March,Home Decor,East,342,11131.22,2349.0,4.8,2606.19
+2023,June,Electronics,North,254,11575.18,2697.98,3.4,4037.86
+2022,June,Home Decor,West,245,26227.84,3440.56,5.0,2238.59
+2020,April,Fashion,West,366,68801.06,9363.4,2.9,3475.15
+2022,October,Electronics,North,484,82115.5,22629.41,4.0,1814.61
+2023,September,Groceries,East,110,15483.49,3905.42,2.9,494.47
+2022,November,Fashion,West,66,4752.79,631.91,2.3,4472.69
+2020,August,Books,East,107,19099.15,4746.81,4.4,4777.28
+2021,March,Home Decor,East,458,42497.96,12590.67,4.0,2995.7
+2024,August,Electronics,West,387,23224.58,6461.36,1.5,965.96
+2021,October,Books,South,195,32072.6,3722.84,4.5,1902.23
+2023,January,Electronics,East,267,11898.21,2393.68,1.6,1717.5
+2021,October,Electronics,West,140,8799.09,939.77,4.5,3962.33
+2023,March,Books,East,380,15520.9,2343.03,4.6,2837.74
+2020,May,Books,East,418,30818.5,7804.1,3.4,4735.28
+2022,July,Home Decor,South,287,22985.16,3197.43,4.2,1430.33
+2024,April,Books,East,412,58443.22,13427.77,3.9,168.07
+2022,May,Books,West,193,12166.75,2147.91,4.7,2561.18
+2022,February,Electronics,West,414,43669.63,10642.53,2.5,1820.03
+2024,April,Groceries,South,118,1745.05,501.08,1.1,4307.14
+2023,May,Books,South,165,8454.1,1063.72,1.7,3481.41
+2022,May,Home Decor,West,283,45590.05,11133.52,2.5,4748.34
+2020,May,Beauty Products,West,74,12742.1,1693.6,3.5,3651.92
+2023,October,Books,South,421,15004.2,1526.95,2.3,2067.17
+2020,July,Books,South,396,8209.28,1885.27,1.5,4442.9
+2020,June,Books,East,362,6215.24,934.69,3.7,4781.89
+2023,December,Groceries,South,259,50664.3,5372.72,3.6,3165.37
+2022,October,Beauty Products,East,143,16135.12,3384.27,2.9,2527.88
+2023,August,Home Decor,North,405,49936.89,14839.11,5.0,1399.76
+2024,February,Beauty Products,West,279,48068.4,10918.53,4.7,746.67
+2020,August,Home Decor,East,189,3852.16,1153.67,3.0,2571.28
+2020,April,Fashion,West,31,2914.84,690.76,3.2,1657.21
+2023,January,Fashion,North,304,5787.94,584.87,1.9,3706.7
+2024,August,Groceries,North,321,36545.15,4384.0,3.7,3886.92
+2021,April,Beauty Products,South,255,21022.47,3076.34,4.0,1335.65
+2024,June,Beauty Products,North,298,26404.43,7656.52,1.6,1228.37
+2023,June,Books,North,122,11240.79,3250.72,3.2,1713.08
+2020,February,Home Decor,North,405,14349.38,4025.07,4.8,2386.02
+2023,August,Fashion,South,397,40691.84,10320.25,4.2,4962.0
+2022,October,Groceries,West,462,81627.53,11835.38,2.7,3275.56
+2022,December,Fashion,South,315,10497.75,2102.42,2.9,1629.43
+2021,November,Groceries,South,21,3528.46,906.84,3.2,3298.32
+2023,April,Beauty Products,South,51,2451.12,461.66,1.5,4565.34
+2024,November,Fashion,North,265,18820.91,2720.98,1.7,3054.29
+2024,November,Beauty Products,South,231,32945.77,6352.1,4.2,781.27
+2024,July,Beauty Products,East,248,37602.5,6115.26,4.2,1163.19
+2020,May,Home Decor,South,83,854.98,198.46,1.7,4833.42
+2021,January,Groceries,South,245,6293.52,1102.89,3.1,1591.39
+2021,January,Electronics,West,138,23239.39,3642.42,4.8,2488.49
+2020,May,Groceries,South,473,65076.8,11561.38,1.8,3233.73
+2024,October,Books,East,158,11420.89,2537.14,3.8,3845.88
+2020,July,Groceries,West,413,14029.37,2939.92,3.4,499.51
+2020,February,Electronics,East,380,44422.58,7868.14,1.8,2693.3
+2022,January,Fashion,South,278,34619.07,9435.57,2.4,3777.46
+2020,October,Books,West,490,19828.0,4405.5,3.5,4337.39
+2024,December,Home Decor,South,414,25215.07,2611.03,4.9,2763.49
+2023,March,Beauty Products,South,421,82039.39,24417.67,4.4,2176.89
+2021,November,Electronics,West,464,84429.15,18727.85,1.3,1529.97
+2023,June,Groceries,West,314,54938.78,16368.36,5.0,2064.17
+2024,March,Fashion,West,114,19720.84,5700.75,4.2,1041.68
+2023,July,Home Decor,East,258,13146.68,3391.75,1.2,778.92
+2021,August,Beauty Products,South,374,37676.53,9829.44,4.2,1159.79
+2022,March,Home Decor,North,51,2595.4,606.63,4.5,2834.09
+2024,September,Home Decor,North,167,27997.27,5460.08,1.0,2441.15
+2022,December,Electronics,North,133,10557.19,2689.03,2.4,3229.38
+2023,February,Books,North,122,9396.1,1658.88,3.8,2787.23
+2022,September,Books,West,473,74224.57,16692.45,3.7,3278.21
+2020,December,Fashion,West,332,44296.7,12934.97,4.7,4422.17
+2024,May,Home Decor,South,287,9377.13,1958.42,1.4,3843.13
+2021,October,Fashion,North,184,31343.68,7961.39,3.1,3691.34
+2020,January,Fashion,West,361,29919.66,3814.91,3.1,109.77
+2021,January,Books,South,114,22316.68,4067.53,1.3,1292.84
+2021,December,Books,South,346,20676.75,3895.74,3.8,3904.38
+2021,May,Fashion,South,173,11360.73,3176.79,1.9,778.28
+2022,January,Beauty Products,East,20,2643.26,274.77,2.2,1091.3
+2023,May,Beauty Products,North,113,2446.3,329.88,4.5,4848.87
+2020,June,Books,West,480,36762.29,8377.84,1.9,4677.81
+2024,August,Books,South,75,3512.1,796.24,4.0,194.32
+2022,November,Electronics,South,500,89332.68,18897.51,2.5,4444.79
+2022,January,Fashion,East,237,44517.46,6894.05,4.6,577.21
+2023,December,Electronics,East,410,53242.47,7170.79,1.3,2102.43
+2020,August,Groceries,West,325,35704.8,10539.89,1.1,691.61
+2023,October,Fashion,North,214,4311.33,1055.13,2.9,709.42
+2024,November,Books,West,255,44055.87,8792.71,3.3,3780.91
+2020,September,Home Decor,East,169,33006.0,7902.42,2.9,1020.17
+2023,May,Books,East,102,5332.2,619.75,4.8,3014.68
+2023,June,Fashion,North,451,17447.53,5142.81,3.3,3950.4
+2023,January,Electronics,South,251,4963.63,1304.86,3.0,4581.32
+2022,July,Home Decor,North,307,52303.78,15054.26,4.0,3291.99
+2021,December,Beauty Products,North,463,25706.33,3014.58,2.0,4670.78
+2021,October,Electronics,West,348,65915.18,18923.91,4.2,1816.33
+2021,July,Fashion,East,488,21750.38,4932.91,3.3,3202.98
+2021,February,Fashion,East,167,2311.3,388.79,4.3,4181.54
+2022,February,Groceries,North,203,16775.31,4367.64,1.1,1262.81
+2022,October,Fashion,East,117,2134.79,540.23,2.8,1597.4
+2022,February,Electronics,East,418,7987.81,2119.95,4.5,4924.35
+2020,March,Fashion,West,304,19273.66,5703.56,3.1,905.14
+2022,December,Home Decor,North,430,21959.75,4944.86,4.0,2574.28
+2021,December,Fashion,North,366,25479.55,3011.82,1.4,2632.04
+2023,March,Books,South,262,44301.13,5227.03,3.8,1657.79
+2022,February,Books,West,113,2983.23,712.92,4.8,3456.65
+2023,December,Beauty Products,West,438,21905.68,3190.18,4.8,209.17
+2024,September,Books,South,444,28394.21,4828.43,4.9,4242.64
+2020,September,Home Decor,South,390,25445.3,4843.45,2.2,3907.03
+2023,October,Fashion,East,202,21329.33,3089.64,3.8,4733.43
+2023,October,Home Decor,West,360,37178.19,10667.69,3.1,2687.15
+2021,August,Electronics,West,362,32858.38,6872.42,4.8,2545.06
+2021,June,Electronics,East,189,5304.37,1294.08,2.5,3721.49
+2024,November,Books,East,222,23679.42,6164.07,4.5,1100.31
+2023,October,Fashion,East,184,19112.7,2968.29,4.4,4474.94
+2021,August,Electronics,West,128,6833.33,711.73,3.9,3246.39
+2020,October,Books,East,273,49439.23,7642.91,1.1,4114.54
+2020,October,Electronics,West,25,1945.22,255.09,4.0,3724.71
+2024,April,Books,North,437,52817.98,6525.69,5.0,1023.87
+2024,June,Beauty Products,West,312,26921.52,5146.11,4.8,827.82
+2024,December,Home Decor,West,427,14458.98,2634.62,5.0,955.68
+2024,March,Fashion,South,395,70597.5,17380.29,3.0,4468.45
+2023,May,Electronics,South,419,37197.13,5700.74,2.7,3559.13
+2022,July,Beauty Products,North,431,78510.09,8257.7,2.0,1527.9
+2020,July,Beauty Products,North,414,41769.15,5232.91,3.7,787.35
+2020,May,Electronics,North,327,9985.95,2510.3,3.2,1534.12
+2020,March,Books,West,21,2275.69,348.81,2.0,4691.55
+2021,August,Electronics,West,95,7766.03,1282.22,1.8,2428.75
+2020,September,Groceries,North,242,38926.25,10713.2,3.6,2777.24
+2022,March,Fashion,East,25,933.0,251.73,4.1,3484.37
+2020,August,Books,East,231,37405.98,3855.14,4.4,1387.21
+2020,January,Home Decor,East,301,29655.09,8341.07,3.7,173.97
+2024,May,Beauty Products,East,306,54894.11,8364.91,3.3,2581.51
+2020,June,Books,South,340,29961.6,7324.05,3.4,4580.69
+2022,November,Home Decor,North,406,12147.74,3287.65,1.9,3846.78
+2022,October,Beauty Products,East,355,25804.81,4028.47,2.5,2905.9
+2023,February,Beauty Products,North,410,71893.66,8339.7,1.1,3829.57
+2024,August,Beauty Products,East,155,23581.28,5678.5,3.5,3149.89
+2022,February,Beauty Products,East,457,64973.73,9919.91,1.0,1662.99
+2022,February,Fashion,West,178,17888.56,3826.26,1.7,1921.58
+2024,September,Beauty Products,West,129,8789.14,2024.68,2.4,508.28
+2022,January,Home Decor,South,234,46710.36,6425.61,4.5,2573.63
+2022,December,Home Decor,East,272,7615.51,2207.88,2.7,3178.15
+2023,June,Beauty Products,North,489,86014.73,16815.52,4.3,1047.71
+2024,October,Beauty Products,North,31,3141.03,924.0,3.8,370.78
+2022,July,Groceries,North,214,33906.5,6253.46,1.5,4782.76
+2023,January,Groceries,West,268,19385.48,4265.51,4.3,3826.37
+2023,March,Beauty Products,East,306,58456.05,6664.7,2.0,1841.29
+2022,January,Books,South,329,3434.77,492.22,3.0,2166.16
+2021,December,Groceries,North,395,24704.7,6324.87,4.9,1417.26
+2020,January,Groceries,South,107,3058.58,519.64,4.8,2749.84
+2020,May,Electronics,North,222,3860.75,416.61,4.0,4291.33
+2023,September,Books,West,374,64907.32,17567.4,1.7,3654.43
+2020,June,Electronics,North,199,13198.06,3600.34,4.8,4662.98
+2021,May,Electronics,North,480,26144.29,6747.7,2.3,1821.29
+2020,February,Beauty Products,North,119,16501.11,3231.92,1.2,4869.35
+2024,May,Fashion,East,387,34229.14,6034.1,1.0,1517.75
+2022,May,Electronics,South,412,78002.3,16608.92,4.5,3892.25
+2021,July,Groceries,North,127,4790.3,1414.03,2.9,4143.31
+2022,November,Beauty Products,South,219,22942.27,4269.15,3.7,1286.76
+2021,June,Electronics,South,105,12090.46,3252.92,4.9,4067.43
+2021,May,Fashion,South,368,34167.55,7351.49,2.2,437.95
+2023,January,Beauty Products,East,390,30713.03,5994.18,3.7,3146.52
+2021,December,Groceries,South,180,2516.96,554.15,1.6,2319.61
+2021,October,Home Decor,South,86,2898.24,494.41,3.9,2977.53
+2024,December,Beauty Products,West,495,37800.48,6286.45,2.7,3873.73
+2024,September,Electronics,East,291,48549.42,10294.12,3.5,2935.05
+2021,November,Home Decor,East,96,5139.83,1153.33,1.0,4628.17
+2021,January,Home Decor,East,293,14133.52,4016.14,4.0,1071.21
+2021,February,Electronics,North,248,15551.01,2073.49,5.0,141.23
+2023,January,Books,South,315,7911.59,969.8,2.6,1146.51
+2021,February,Groceries,North,492,42555.97,10380.68,2.3,3173.16
+2023,October,Beauty Products,West,296,27362.12,6306.95,4.9,2099.66
+2022,November,Fashion,West,353,32060.68,7917.33,3.8,1349.23
+2022,June,Home Decor,East,193,23024.83,2640.67,1.4,4543.83
+2023,June,Books,East,56,8760.19,1202.31,3.1,3111.17
+2020,October,Fashion,East,121,17764.45,5051.5,1.8,2727.32
+2020,May,Books,South,395,21198.25,4097.84,2.9,2522.05
+2021,May,Books,North,476,37351.7,9768.68,2.3,3225.18
+2024,September,Home Decor,West,275,5659.33,1497.88,3.5,1747.04
+2023,January,Home Decor,East,238,25748.8,6872.49,2.4,2999.72
+2020,July,Electronics,North,89,6086.62,1360.61,1.1,1461.96
+2020,October,Books,East,207,8748.15,2239.34,1.2,4906.31
+2020,June,Books,North,349,12673.57,2004.26,4.5,1676.42
+2022,May,Electronics,East,356,32910.16,4450.76,1.7,798.25
+2023,January,Beauty Products,East,491,39011.1,5313.82,2.8,1327.13
+2024,January,Electronics,East,365,63595.05,18050.89,2.6,2763.69
+2022,April,Groceries,South,94,14801.45,3375.07,4.5,3583.41
+2022,February,Electronics,North,25,2970.62,534.34,1.8,3499.88
+2022,October,Home Decor,East,245,10233.72,2996.33,4.0,1368.29
+2024,February,Fashion,South,232,33490.4,5920.4,3.4,3085.79
+2020,June,Books,West,79,1787.93,326.6,3.9,4481.9
+2021,February,Beauty Products,East,140,21201.23,3061.95,1.6,2352.95
+2023,April,Books,North,167,14895.52,3001.56,4.4,2892.83
+2020,July,Beauty Products,East,350,9235.13,2522.93,4.1,1468.95
+2021,December,Home Decor,North,94,18254.78,4490.09,4.0,797.18
+2024,January,Beauty Products,West,465,55297.96,15440.84,3.6,3381.77
+2021,June,Beauty Products,West,177,13382.93,2921.26,5.0,3485.23
+2020,March,Groceries,East,311,15075.75,1744.63,2.8,1177.68
+2020,November,Electronics,West,111,5467.11,994.32,1.5,1686.54
+2020,July,Electronics,North,286,33330.14,4046.05,3.0,1862.64
+2023,July,Groceries,South,370,19596.98,3683.75,2.1,880.06
+2020,February,Beauty Products,South,74,12119.3,2196.32,3.8,1047.26
+2022,May,Electronics,West,289,34156.36,8903.58,4.7,369.12
+2022,March,Electronics,South,322,8181.32,2010.57,1.5,1637.23
+2023,June,Groceries,East,292,13557.76,2382.17,1.5,3482.23
+2024,March,Beauty Products,East,183,4543.44,1062.85,2.1,1297.71
+2024,August,Home Decor,North,483,20839.53,3690.84,1.3,1183.86
+2022,April,Home Decor,South,313,42430.45,7254.29,3.7,4986.12
+2024,March,Beauty Products,South,496,80914.5,17192.41,1.9,2134.26
+2021,November,Home Decor,East,249,8773.1,2479.26,4.4,3563.94
+2024,March,Home Decor,East,447,58060.52,8554.9,2.6,2205.63
+2020,September,Home Decor,South,215,22083.5,3693.03,3.2,2723.22
+2023,April,Electronics,North,267,8789.5,2014.58,1.4,122.16
+2021,December,Books,West,315,8721.86,897.66,1.8,4434.2
+2022,January,Electronics,South,495,37159.56,3867.02,2.2,2204.43
+2023,April,Groceries,East,249,38364.43,6255.69,1.8,4775.26
+2024,December,Beauty Products,South,298,19371.61,4780.94,1.4,908.76
+2021,March,Electronics,North,287,41224.3,6748.27,3.0,4420.65
+2024,January,Electronics,West,261,40254.98,9717.07,2.7,995.87
+2024,July,Beauty Products,South,370,33310.85,7672.16,3.3,558.46
+2020,November,Groceries,East,128,18290.58,3081.96,4.2,3641.48
+2021,July,Home Decor,South,494,50117.19,11744.58,3.2,4505.12
+2024,April,Fashion,North,341,59087.43,16956.2,2.9,1811.03
+2022,November,Electronics,East,278,16344.12,4371.55,3.0,3769.88
+2021,October,Books,East,31,1601.94,207.52,2.4,4311.39
+2022,December,Beauty Products,East,258,15735.5,1799.61,2.9,1608.81
+2021,March,Groceries,North,313,50907.49,7407.87,2.9,4405.94
+2024,October,Home Decor,East,431,46604.71,11345.24,1.2,2198.77
+2023,March,Groceries,North,411,10133.71,1887.54,4.2,505.95
+2022,April,Beauty Products,East,490,58241.49,14127.38,3.6,4617.42
+2024,March,Fashion,North,333,27829.77,7319.1,2.9,3333.28
+2023,June,Groceries,North,310,4899.14,1078.96,2.8,1721.55
+2022,November,Books,East,136,7479.35,1966.21,3.4,2759.06
+2021,August,Groceries,North,53,7839.58,1435.99,2.8,4282.28
+2023,July,Fashion,East,184,6830.32,936.95,3.0,1808.02
+2020,March,Electronics,North,460,85785.88,15775.93,3.4,3673.24
+2022,February,Groceries,South,125,17018.65,4133.45,3.3,162.98
+2021,June,Beauty Products,East,491,76062.28,7883.42,2.0,1530.72
+2021,April,Books,North,461,57179.45,11124.09,1.5,862.63
+2021,October,Groceries,South,376,6064.52,1806.24,1.8,1835.94
+2021,October,Home Decor,East,473,42511.07,9221.43,1.9,4431.39
+2022,May,Home Decor,North,421,77529.47,13579.42,4.5,909.54
+2021,March,Groceries,East,334,64049.34,17703.98,1.3,2720.33
+2022,December,Home Decor,North,185,9672.79,1843.87,1.6,2116.66
+2023,March,Groceries,West,474,6198.74,1483.6,1.9,1781.35
+2022,February,Electronics,South,309,61677.0,18207.47,4.7,4692.01
+2022,August,Groceries,South,363,58875.6,9922.88,4.7,2218.95
+2024,December,Electronics,South,255,28441.25,3212.17,1.1,4977.04
+2023,July,Fashion,North,239,20314.77,2700.94,4.5,3367.16
+2023,July,Books,North,287,28801.89,7396.51,2.6,3219.1
+2022,October,Home Decor,West,491,75769.41,15707.33,5.0,892.4
+2021,June,Groceries,East,116,7947.81,1684.58,3.2,4291.21
+2024,June,Books,South,95,10451.63,2582.49,1.9,2642.15
+2020,October,Home Decor,East,377,27268.75,2972.57,4.4,1381.79
+2023,August,Beauty Products,East,96,7169.38,1077.65,3.0,3437.09
+2022,August,Home Decor,East,464,84601.34,10343.47,4.3,921.41
+2021,July,Electronics,West,166,16248.24,2798.94,3.0,3008.02
+2021,March,Beauty Products,South,382,46715.43,12158.64,3.0,2802.13
+2020,March,Fashion,South,94,17489.75,2108.63,3.9,3908.09
+2021,March,Fashion,East,127,4574.86,879.49,1.2,923.32
+2020,May,Fashion,East,67,3255.03,899.4,1.6,3416.98
+2023,October,Electronics,South,408,48654.18,13247.05,2.2,2786.95
+2022,July,Books,West,442,55922.74,8973.6,1.6,4625.6
+2024,January,Home Decor,South,166,28597.85,6147.26,3.4,3705.3
+2022,February,Groceries,West,431,35405.6,9967.06,4.1,2003.87
+2024,January,Fashion,North,439,33156.36,5139.18,2.7,2709.44
+2020,February,Home Decor,North,145,7289.84,1497.54,2.7,1202.25
+2022,December,Home Decor,South,262,34387.11,6799.45,2.4,4865.27
+2023,August,Home Decor,South,393,7129.88,1250.63,4.9,4903.8
+2024,October,Beauty Products,East,347,54346.04,15833.43,4.9,4158.42
+2021,January,Home Decor,West,346,61496.63,16532.83,1.3,1440.35
+2023,July,Books,North,341,45700.54,6384.21,3.5,4032.97
+2023,January,Electronics,South,410,32971.59,8031.37,2.4,3256.08
+2023,May,Groceries,South,451,46428.31,11223.41,1.8,2216.92
+2020,September,Fashion,North,258,40954.84,4936.41,3.7,4086.49
+2024,January,Home Decor,West,174,31857.15,8644.47,2.9,4125.31
+2021,January,Home Decor,East,411,76154.29,9481.56,4.0,1154.07
+2024,December,Fashion,East,257,19338.73,3505.99,4.8,2344.85
+2021,October,Fashion,South,30,5020.55,1038.1,4.4,323.59
+2022,November,Fashion,North,351,6929.13,987.63,4.6,4200.88
+2022,January,Groceries,East,156,2374.64,302.69,3.0,4221.34
+2021,August,Home Decor,North,404,6454.98,1726.14,2.6,4035.21
+2020,November,Electronics,East,166,31479.48,8344.08,3.2,2285.96
+2022,November,Books,East,314,6009.23,1116.01,2.2,2085.31
+2021,October,Fashion,South,291,46907.26,10608.9,1.0,4936.03
+2023,April,Fashion,West,154,29180.46,8014.96,3.4,1233.36
+2023,September,Electronics,North,340,67807.95,7429.01,2.4,4640.67
+2021,July,Beauty Products,South,86,6139.38,864.26,4.5,830.2
+2022,November,Beauty Products,West,395,56527.6,10401.51,5.0,3774.62
+2023,February,Fashion,North,470,46191.6,8501.81,2.5,4577.54
+2023,July,Books,North,230,42530.26,10078.69,3.9,4118.53
+2020,November,Fashion,South,123,22903.25,5612.31,4.0,2599.0
+2020,February,Home Decor,North,430,18582.49,3244.51,3.3,2889.91
+2023,February,Groceries,West,385,67505.47,16019.63,2.4,2194.97
+2021,January,Groceries,South,310,49009.75,8377.82,1.3,2963.38
+2020,April,Groceries,North,473,15540.9,1717.17,3.4,2920.95
+2022,May,Home Decor,North,476,39472.53,11055.96,3.5,2986.6
+2022,November,Beauty Products,North,157,30833.8,5850.46,2.1,2684.33
+2024,December,Groceries,East,473,31539.82,9055.59,1.5,683.02
+2024,February,Beauty Products,North,52,10272.62,1713.35,2.5,2190.21
+2022,January,Electronics,West,77,2323.33,242.55,2.1,1296.06
+2023,August,Books,South,483,49188.93,11848.91,3.3,2783.34
+2020,June,Beauty Products,North,267,45090.29,11196.99,3.6,2725.99
+2020,February,Home Decor,East,96,10444.24,1410.09,2.2,614.54
+2024,April,Electronics,North,487,96923.93,9886.31,4.8,1971.44
+2022,October,Fashion,West,358,7575.83,1616.09,1.9,2541.28
+2022,August,Beauty Products,East,365,29331.79,4883.16,3.7,3607.06
+2020,October,Books,West,425,10315.46,2079.45,4.9,2888.36
+2022,December,Electronics,South,187,30831.65,5328.67,1.9,4594.86
+2021,February,Books,South,238,6989.37,1258.57,3.0,1015.04
+2022,February,Fashion,North,59,5504.2,873.91,4.4,963.1
+2021,November,Books,North,445,31505.39,4462.03,3.7,3093.02
+2023,May,Electronics,South,248,36330.08,9659.53,1.9,3556.22
+2021,April,Electronics,West,42,784.34,225.44,3.5,933.78
+2021,August,Electronics,North,218,30640.73,6696.27,3.1,129.85
+2023,March,Home Decor,South,284,50475.26,13388.38,3.3,1327.39
+2023,November,Beauty Products,East,329,4720.77,899.25,1.9,4558.26
+2022,May,Beauty Products,South,31,1401.07,320.63,1.0,1947.26
+2024,August,Fashion,West,49,5841.46,1611.52,4.8,4150.78
+2024,January,Home Decor,East,143,15942.2,2308.78,1.4,821.38
+2024,March,Books,East,24,867.51,137.0,1.4,4667.43
+2024,January,Books,East,30,1503.62,283.99,2.7,1811.58
+2022,June,Books,West,158,22178.11,4168.86,1.4,4344.2
+2021,February,Groceries,South,202,33307.1,8848.59,4.3,722.85
+2020,March,Electronics,West,304,47264.3,6200.6,4.0,3692.51
+2022,June,Groceries,North,105,17655.11,2887.26,1.0,3410.38
+2024,May,Beauty Products,South,382,24527.86,4407.97,4.2,608.36
+2024,March,Beauty Products,East,272,39521.28,4231.27,3.1,4370.59
+2020,September,Books,West,126,7898.55,1276.69,4.7,2807.8
+2021,May,Groceries,North,130,4788.62,877.79,4.1,3604.52
+2022,June,Groceries,West,402,21652.4,4620.27,3.3,2079.77
+2021,November,Groceries,North,468,54968.94,15692.67,3.8,4997.66
+2022,February,Beauty Products,South,438,63491.39,14415.42,4.8,1306.39
+2022,March,Fashion,South,49,3046.82,696.84,2.2,3510.32
+2023,December,Home Decor,North,191,4932.33,1164.13,3.9,1865.42
+2022,January,Groceries,South,232,6895.34,972.17,4.1,1109.88
+2021,February,Electronics,North,279,15232.73,1858.64,2.8,618.61
+2020,December,Electronics,South,366,61805.38,10578.41,4.0,2908.9
+2022,November,Books,North,300,39622.49,7207.59,4.9,1555.51
+2022,March,Home Decor,West,33,5065.44,703.75,2.2,4309.57
+2024,June,Electronics,East,452,61292.34,11340.08,3.8,3323.1
+2020,September,Beauty Products,East,206,3998.13,859.09,2.9,1789.95
+2020,October,Electronics,West,290,4132.72,770.06,2.8,4414.65
+2023,December,Fashion,North,25,4209.85,917.74,3.2,424.42
+2022,March,Beauty Products,East,162,30109.93,5025.47,2.0,4532.96
+2023,November,Home Decor,North,46,8158.18,1253.92,3.9,3355.16
+2021,June,Books,South,209,29899.65,5960.09,2.4,2835.51
+2022,January,Books,West,106,11149.71,1167.52,3.3,3153.93
+2022,March,Fashion,East,138,14532.36,1460.43,2.2,4253.85
+2024,February,Home Decor,West,169,12978.96,2616.61,2.8,4970.52
+2023,November,Fashion,East,320,47241.77,11337.87,4.9,4129.32
+2021,May,Groceries,South,398,66605.76,10303.88,2.6,1780.99
+2022,January,Groceries,East,317,25441.45,4314.01,3.3,4012.32
+2021,March,Fashion,North,499,92812.3,19471.75,3.1,4595.53
+2020,March,Books,West,223,4105.51,912.58,1.8,3940.05
+2023,June,Beauty Products,West,248,36272.56,6513.93,1.8,3780.33
+2023,March,Home Decor,East,364,54965.17,5920.0,2.4,1968.01
+2022,January,Groceries,South,479,64664.48,14559.02,4.6,4560.0
+2023,September,Fashion,West,255,35465.5,8713.42,3.1,3993.74
+2022,June,Fashion,South,401,72782.52,10876.18,2.3,4454.0
+2023,April,Groceries,South,23,2314.65,623.3,2.0,565.91
+2024,October,Electronics,South,20,2451.8,411.82,3.7,1969.64
+2022,February,Books,South,205,32223.32,6321.36,2.4,1787.28
+2022,December,Beauty Products,West,211,18799.81,5492.26,4.9,108.33
+2021,March,Beauty Products,North,403,26474.67,4651.79,2.8,3696.28
+2021,November,Groceries,East,229,21451.1,3841.53,1.5,3965.73
+2021,February,Fashion,North,215,12856.9,2731.21,1.4,3088.95
+2022,April,Groceries,North,452,54144.79,16093.77,4.6,1930.6
+2023,November,Electronics,West,47,4220.16,949.56,4.4,1140.37
+2023,October,Books,North,491,22657.6,2374.92,3.7,1627.26
+2021,January,Books,North,184,35211.81,8490.24,4.8,3104.81
+2024,July,Fashion,East,467,60934.47,18082.84,2.4,385.87
+2023,October,Home Decor,South,479,17088.17,2503.81,1.8,127.67
+2024,July,Home Decor,North,313,56742.16,15979.17,3.2,3568.74
+2020,February,Books,East,97,11757.49,2377.24,3.7,2448.01
+2022,December,Groceries,North,330,32182.86,3457.83,1.9,594.91
+2022,June,Home Decor,West,490,35054.23,4381.77,1.5,2249.91
+2021,January,Groceries,North,249,43115.71,12225.34,4.9,4553.15
+2020,September,Home Decor,East,414,47977.57,10738.87,4.2,2045.11
+2023,January,Books,North,244,16036.7,4168.83,1.1,3871.99
+2021,August,Electronics,West,466,38427.93,10974.17,3.4,1907.4
+2020,August,Beauty Products,South,494,73648.44,19624.23,1.9,4146.56
+2020,February,Fashion,South,223,4271.65,481.58,4.1,3032.12
+2024,September,Home Decor,West,321,52782.39,5645.48,2.2,1356.5
+2021,February,Beauty Products,West,341,57154.0,7823.1,3.2,1643.0
+2022,April,Fashion,South,420,63490.26,8274.62,3.0,961.66
+2020,January,Fashion,East,421,39599.55,5905.22,4.4,2103.38
+2023,December,Fashion,North,265,43609.79,8319.62,1.5,4146.26
+2020,October,Electronics,West,37,625.52,83.91,2.6,4174.51
+2021,October,Electronics,North,387,7040.77,1664.22,3.5,608.21
+2020,November,Fashion,West,81,7841.19,1738.62,1.4,906.96
+2022,June,Beauty Products,West,97,14578.32,3172.97,1.8,3809.8
+2021,October,Fashion,South,336,54530.5,12839.98,2.9,3454.15
+2020,May,Beauty Products,South,64,6571.81,1596.85,3.6,1916.04
+2024,January,Home Decor,North,428,81517.22,20121.12,3.4,2191.54
+2022,August,Electronics,North,152,20809.28,3507.87,3.7,4051.54
+2020,April,Books,South,283,39724.7,4358.82,3.1,4363.62
+2022,December,Groceries,East,299,32630.73,5586.14,4.1,165.61
+2024,December,Books,East,485,38890.48,10832.32,3.6,577.16
+2020,February,Electronics,East,306,25748.17,6294.16,2.8,1637.66
+2022,June,Home Decor,South,62,5332.87,801.9,4.6,101.94
+2022,June,Beauty Products,North,21,3882.67,901.26,2.3,1837.48
+2023,March,Groceries,South,135,2192.17,472.37,1.4,2606.04
+2024,September,Groceries,North,460,30945.48,7062.09,2.8,1929.15
+2024,November,Books,East,393,7594.73,1297.1,4.4,3746.18
+2024,October,Beauty Products,West,72,12721.8,3339.04,1.4,459.61
+2022,November,Beauty Products,East,431,13236.05,3784.32,1.8,4517.45
+2023,March,Electronics,East,280,10429.1,1125.48,3.5,2576.99
+2024,August,Fashion,North,92,7651.96,1581.77,2.7,4676.78
+2020,January,Books,West,269,13987.85,2167.47,4.7,2076.47
+2022,March,Fashion,South,423,9231.44,2332.55,3.4,3492.02
+2022,September,Groceries,West,70,7929.62,1206.58,1.7,2620.08
+2021,October,Fashion,East,306,10043.83,2178.17,1.0,315.54
+2021,September,Beauty Products,North,170,12871.18,3384.76,3.9,4299.64
+2022,October,Fashion,North,427,69962.19,15091.52,2.3,1979.06
+2023,February,Books,West,428,32956.19,8836.15,3.4,4113.42
+2020,October,Books,South,366,33102.44,5062.01,1.6,2015.03
+2022,September,Fashion,East,446,53406.67,13182.02,1.2,1326.67
+2021,May,Beauty Products,North,156,4737.41,481.33,3.3,1754.53
+2020,December,Groceries,West,43,4082.66,554.85,1.2,1123.05
+2023,September,Groceries,East,440,80566.3,21957.04,2.7,4710.95
+2022,June,Home Decor,West,361,55655.74,7788.59,2.7,1485.83
+2021,September,Home Decor,North,123,11033.97,2111.19,2.7,1720.94
+2021,April,Groceries,West,399,30992.38,5705.04,1.6,4130.48
+2022,December,Beauty Products,North,400,27472.47,7673.68,3.0,3281.71
+2022,January,Home Decor,South,393,25781.47,5912.85,3.8,2792.43
+2021,May,Books,North,486,28596.0,4440.49,1.6,4652.88
+2021,March,Groceries,South,52,901.83,105.14,4.6,3970.8
+2022,October,Groceries,South,342,56653.36,13439.46,3.6,2520.84
+2023,February,Groceries,North,251,23449.52,6837.52,2.7,3190.05
+2020,January,Home Decor,North,138,26033.04,5069.6,3.5,4342.9
+2020,August,Books,West,284,38762.65,4839.38,4.5,4512.28
+2022,August,Groceries,West,33,3379.7,881.85,2.7,4321.18
+2024,January,Electronics,South,168,18777.25,3496.06,1.5,207.46
+2023,August,Home Decor,South,271,18503.74,2919.17,3.4,730.95
+2024,July,Beauty Products,West,319,51504.32,8758.21,4.5,845.88
+2024,November,Groceries,North,302,22981.15,6661.17,3.6,3400.2
+2020,September,Groceries,East,90,9217.85,982.75,4.3,712.71
+2022,December,Home Decor,North,466,15066.87,3578.93,2.7,2537.08
+2022,September,Groceries,East,257,46549.87,11304.81,4.8,1683.07
+2020,February,Home Decor,East,490,51206.04,7587.49,3.8,2258.9
+2020,April,Fashion,West,370,9115.11,1566.93,4.2,4674.55
+2024,October,Groceries,East,310,44227.91,11377.05,4.8,355.65
+2021,January,Books,West,32,3177.44,620.29,4.5,314.64
+2020,November,Fashion,West,466,56625.9,9380.29,1.8,4845.53
+2021,June,Beauty Products,South,360,39821.77,7970.9,2.9,872.81
+2021,August,Books,North,341,53681.51,14855.03,2.3,4312.31
+2021,April,Fashion,South,54,9545.88,1777.68,1.3,3453.56
+2022,August,Beauty Products,South,315,18724.49,3647.98,4.3,3679.59
+2022,January,Beauty Products,South,409,8501.21,2516.91,2.8,1864.41
+2024,March,Fashion,West,365,30710.34,8986.98,2.6,680.57
+2021,March,Books,East,250,42017.24,8460.39,1.6,1046.67
+2021,December,Fashion,West,340,43826.72,8400.83,3.2,1391.58
+2024,September,Electronics,South,188,7455.1,1099.75,2.3,2183.36
+2022,October,Home Decor,South,395,6528.4,1352.12,1.1,4504.13
+2021,June,Beauty Products,North,390,71107.37,21283.7,3.0,2110.91
+2021,November,Fashion,East,436,19771.12,2543.62,4.1,1649.95
+2022,August,Electronics,East,320,5332.7,1088.43,4.3,472.19
+2024,August,Electronics,East,41,3453.9,791.43,1.7,2198.16
+2020,January,Beauty Products,East,80,4633.99,766.94,1.1,3403.18
+2020,May,Beauty Products,North,381,54462.65,11634.8,4.3,4874.28
+2022,March,Home Decor,North,227,12612.56,3349.15,2.2,1572.9
+2022,October,Beauty Products,North,267,15630.66,2889.55,3.2,4799.24
+2020,September,Fashion,West,434,60412.45,16666.25,3.2,1380.33
+2024,May,Beauty Products,North,459,74035.48,21204.88,3.6,499.23
+2024,May,Groceries,South,440,72831.61,7477.61,2.5,2506.74
+2022,November,Electronics,South,406,7582.96,1034.8,2.7,3774.24
+2024,March,Fashion,South,421,5697.33,1205.29,4.7,3822.04
+2024,June,Fashion,North,99,10021.7,1439.49,4.3,3000.08
+2023,January,Groceries,South,261,8181.18,1679.65,1.3,2839.8
+2020,July,Groceries,West,118,22844.75,5323.99,3.1,2956.37
+2021,May,Fashion,South,26,3107.02,562.51,5.0,2627.9
+2020,August,Fashion,South,460,90736.1,18608.67,1.7,2237.97
+2022,September,Beauty Products,North,154,30516.2,8106.62,3.3,4902.95
+2022,November,Groceries,East,431,76752.79,22116.11,1.3,1487.12
+2022,July,Fashion,North,395,70094.59,8610.23,4.0,2653.51
+2024,December,Electronics,South,371,41048.25,11647.84,4.4,727.22
+2024,October,Fashion,South,210,41321.11,9164.7,1.9,1880.18
+2020,June,Beauty Products,South,410,58123.96,16959.74,4.1,4356.33
+2022,August,Home Decor,North,125,18163.41,2333.84,4.2,513.27
+2024,May,Home Decor,East,241,35495.73,5402.55,1.3,3992.82
+2024,December,Groceries,North,272,45449.03,12741.28,2.8,3362.32
+2024,April,Groceries,East,482,74936.21,10710.41,4.4,567.49
+2020,October,Beauty Products,East,168,32055.71,3448.87,4.0,741.06
+2020,May,Fashion,North,300,34105.74,3681.46,5.0,3603.99
+2021,November,Books,West,444,84299.59,20785.88,3.3,2016.56
+2022,August,Beauty Products,East,384,57182.55,9165.78,2.6,3262.45
+2021,December,Books,East,318,59120.99,8212.46,4.3,2678.58
+2022,January,Fashion,East,24,3621.37,404.06,4.6,4298.18
+2022,October,Groceries,South,394,69632.05,20312.85,2.1,4181.24
+2023,September,Home Decor,South,134,16656.07,2293.77,1.3,2617.31
+2022,September,Electronics,East,27,2504.74,676.27,2.2,622.51
+2020,June,Groceries,South,494,70113.73,12936.17,4.3,3986.72
+2023,October,Electronics,East,313,6748.25,1970.26,1.6,2135.03
+2023,November,Electronics,South,250,16588.96,3098.69,2.1,4303.16
+2021,March,Groceries,West,327,10036.47,1553.96,4.9,967.52
+2023,November,Groceries,North,245,17939.1,1903.3,1.5,3185.54
+2021,February,Beauty Products,North,101,17522.96,4949.05,2.1,557.61
+2024,July,Books,South,28,5268.15,1407.29,4.8,4132.19
+2023,February,Electronics,South,343,50777.72,9076.8,2.4,3187.56
+2020,December,Electronics,North,457,40670.35,10783.06,4.8,3354.39
+2022,June,Books,West,126,5847.34,970.55,2.2,2327.7
+2024,February,Groceries,South,102,4125.47,440.1,2.2,3049.61
+2020,January,Electronics,East,372,25203.1,7288.0,5.0,2333.16
+2022,November,Electronics,West,369,35225.13,4785.78,4.3,124.51
+2021,September,Electronics,West,443,33496.1,7923.96,4.2,4944.91
+2024,November,Beauty Products,North,68,4926.38,596.46,4.3,539.37
+2024,June,Electronics,South,228,14942.11,1858.44,1.8,3501.92
+2023,July,Books,West,159,1886.87,455.36,2.0,1558.11
+2022,November,Beauty Products,North,108,15967.34,3029.62,2.9,554.18
+2022,November,Home Decor,South,98,3242.22,694.58,3.4,402.82
+2021,December,Fashion,North,417,49392.83,9020.68,4.6,1224.09
+2021,July,Fashion,South,108,7705.57,1363.5,4.3,2203.22
+2022,January,Home Decor,East,417,65019.15,10796.45,4.6,4071.25
+2021,August,Fashion,North,485,20243.93,2899.22,1.9,2331.97
+2021,February,Books,West,214,26566.23,6297.69,3.7,4777.43
+2021,July,Groceries,South,443,16152.38,4833.7,3.8,1451.12
+2022,November,Electronics,South,369,21566.67,5730.96,1.6,1028.73
+2023,December,Fashion,North,20,2785.02,808.38,1.1,2259.05
+2022,October,Home Decor,North,348,63127.66,16988.49,4.8,447.92
+2020,July,Home Decor,North,108,11259.48,2601.17,4.1,4290.79
+2020,January,Electronics,South,65,3199.28,381.0,1.3,4025.14
+2020,July,Electronics,North,83,12762.99,2690.82,4.2,1280.07
+2020,February,Home Decor,North,74,7773.0,1358.27,4.5,2189.7
+2020,April,Books,North,171,25010.63,5107.55,2.0,4212.87
+2021,June,Beauty Products,South,155,13505.03,2694.64,3.7,1839.02
+2021,March,Books,North,434,31240.61,6076.5,2.7,4111.41
+2022,May,Electronics,North,421,44523.07,9726.05,3.6,314.73
+2023,January,Groceries,North,95,7429.54,1046.33,1.4,1995.96
+2022,December,Home Decor,South,95,6164.74,842.36,1.9,4369.36
+2020,July,Electronics,South,299,19527.23,4641.13,3.7,4318.18
+2022,April,Fashion,East,53,6423.35,1164.78,4.7,2935.52
+2022,November,Fashion,North,172,17779.71,4611.86,4.6,1294.74
+2022,April,Groceries,East,472,47434.11,5432.72,2.8,2789.27
+2020,July,Home Decor,West,89,9877.23,1382.17,1.5,980.77
+2024,July,Fashion,South,108,9728.9,1694.28,4.4,2429.8
+2020,February,Electronics,West,486,11173.94,1468.95,1.1,1652.28
+2022,November,Electronics,East,178,1890.11,216.51,3.8,4478.17
+2020,September,Fashion,West,400,16950.68,4137.03,1.7,4922.15
+2021,March,Electronics,West,328,18927.01,4700.15,2.8,305.93
+2022,August,Fashion,South,22,1934.82,351.43,2.2,368.96
+2023,July,Fashion,West,65,10338.33,1586.35,2.9,2818.83
+2020,October,Fashion,East,196,38116.26,6187.22,4.9,1310.77
+2024,April,Books,East,58,6812.14,1818.85,1.4,4300.6
+2023,January,Fashion,West,338,30122.8,6563.97,4.5,3697.27
+2020,February,Beauty Products,South,110,17681.63,3933.04,3.0,2253.55
+2022,April,Electronics,East,312,25962.69,5411.37,1.3,1703.8
+2021,April,Groceries,South,50,4205.87,623.02,4.3,4738.19
+2023,November,Electronics,West,364,67096.48,10460.12,1.5,2914.39
+2023,June,Beauty Products,East,309,10091.12,2784.43,3.7,3639.3
+2020,February,Beauty Products,West,201,3793.58,546.42,3.0,4712.41
+2020,June,Home Decor,South,62,3454.91,1011.84,4.5,1087.63
+2023,December,Books,West,97,12406.51,2147.85,3.3,2075.1
+2024,October,Fashion,East,247,49214.23,7825.03,4.9,4665.7
+2022,September,Fashion,South,289,35191.97,8418.8,1.1,4424.29
+2020,November,Beauty Products,West,72,1407.7,391.35,1.1,2306.91
+2022,November,Beauty Products,South,343,43329.91,12580.69,4.6,3652.42
+2021,May,Home Decor,West,271,37658.62,4503.85,1.8,2935.66
+2023,February,Beauty Products,South,165,24106.25,3766.0,4.3,947.81
+2022,December,Fashion,North,111,1324.62,355.96,1.2,2769.93
+2022,February,Beauty Products,West,290,42916.78,9528.93,3.5,1229.68
+2022,November,Groceries,East,496,93804.23,21819.73,1.7,2081.59
+2023,June,Electronics,West,377,11445.89,1623.19,2.8,1402.24
+2022,January,Electronics,North,285,15871.22,1722.51,4.6,3798.85
+2020,June,Groceries,South,397,60687.58,8207.63,4.8,4034.37
+2020,November,Home Decor,East,402,11089.93,2280.09,5.0,3687.73
+2021,September,Home Decor,North,293,54821.28,12610.26,4.4,3443.13
+2024,December,Home Decor,West,226,13724.82,1617.18,4.1,4419.21
+2023,June,Electronics,North,115,9056.53,1823.91,1.3,1547.68
+2021,October,Home Decor,South,137,1833.26,327.9,2.4,3049.51
+2021,October,Home Decor,East,248,3552.05,1035.27,4.4,1653.35
+2022,January,Books,East,428,66418.67,16983.22,3.7,1035.7
+2024,February,Books,North,157,14321.58,1715.51,1.5,4145.62
+2022,June,Home Decor,East,202,23684.77,2722.72,1.3,3341.24
+2022,January,Home Decor,East,322,25797.95,4104.73,1.1,1425.28
+2022,November,Books,North,194,13006.97,2793.67,3.5,3492.02
+2024,June,Groceries,West,305,15948.78,1626.15,4.2,2656.96
+2024,August,Fashion,South,231,14526.47,3160.64,3.6,1181.24
+2021,March,Fashion,West,279,42059.54,8153.43,1.2,2080.54
+2023,March,Fashion,North,29,1761.44,245.09,4.9,2559.31
+2020,January,Home Decor,West,234,17168.96,4096.52,2.9,3718.93
+2024,April,Groceries,East,253,19135.96,5692.4,3.5,3409.56
+2022,February,Groceries,South,420,48435.02,6982.15,4.4,3687.99
+2021,January,Fashion,East,356,7079.39,1675.08,3.7,4885.97
+2022,October,Beauty Products,South,364,5062.31,831.8,1.4,2807.74
+2021,February,Groceries,North,335,44657.94,11724.22,4.7,2345.14
+2020,May,Beauty Products,North,351,59907.07,14289.9,1.9,3438.59
+2024,October,Home Decor,North,230,38134.87,5912.18,2.1,1355.76
+2023,November,Home Decor,South,426,61634.26,8575.53,2.6,4126.18
+2020,August,Groceries,West,204,2735.6,768.63,1.8,132.37
+2021,September,Fashion,West,100,6134.04,1649.62,1.1,2845.98
+2022,June,Groceries,East,459,90104.78,24737.19,4.5,806.27
+2021,November,Fashion,East,76,6233.2,1084.61,4.2,4574.99
+2022,May,Fashion,West,447,87267.17,13521.83,1.5,3414.57
+2023,December,Groceries,West,454,57538.59,7170.68,4.1,3056.0
+2020,June,Home Decor,North,90,8403.66,909.58,3.2,2360.35
+2020,April,Electronics,North,55,6832.4,916.12,3.8,1449.14
+2020,February,Books,East,347,51179.17,14199.04,1.2,4195.65
+2022,August,Fashion,East,342,46953.33,8841.13,3.6,261.2
+2021,November,Groceries,East,392,74335.74,15138.75,1.3,2747.95
+2021,September,Home Decor,East,23,3222.35,960.67,4.8,4025.88
+2024,May,Books,East,345,60974.05,13701.32,4.4,2159.19
+2024,April,Groceries,North,327,37561.06,9690.52,2.5,648.03
+2024,April,Electronics,East,413,17673.38,2475.13,1.7,1848.26
+2020,March,Fashion,South,169,10060.05,2131.4,1.8,1148.81
+2024,June,Books,South,311,32325.25,5786.03,1.9,1052.87
+2021,July,Books,West,111,5072.88,1036.86,2.6,1750.74
+2024,October,Home Decor,East,190,12534.31,3043.56,3.2,4690.65
+2020,September,Fashion,East,43,4579.45,842.12,1.9,3108.61
+2021,February,Home Decor,North,485,75732.35,9644.23,4.0,1732.03
+2024,June,Home Decor,West,438,87421.79,25675.5,1.6,894.74
+2022,September,Electronics,West,131,3005.79,492.74,3.9,1969.97
+2023,January,Home Decor,South,384,21133.27,2623.97,3.1,3958.06
+2020,April,Electronics,North,102,11064.72,1609.88,2.6,2007.64
+2024,May,Books,South,213,18830.83,4481.21,3.2,4988.67
+2021,November,Electronics,North,83,4883.63,1077.04,1.6,3396.82
+2021,February,Beauty Products,North,108,16038.79,2374.86,1.6,258.1
+2020,October,Fashion,South,467,51639.41,6624.28,3.6,1904.7
+2021,April,Home Decor,East,188,24104.89,5067.0,2.7,742.93
+2023,September,Groceries,North,240,9695.58,2762.18,4.6,2324.19
+2022,July,Fashion,West,332,7450.11,778.4,2.4,1167.74
+2023,August,Electronics,South,320,18081.41,2098.51,1.6,405.0
+2020,September,Electronics,North,93,4239.56,922.71,2.8,4472.34
+2021,January,Beauty Products,East,216,39994.64,9768.85,1.3,4974.49
+2021,July,Home Decor,South,273,41464.22,10618.44,1.7,1851.41
+2021,September,Books,East,378,64689.06,12990.69,3.6,4423.36
+2020,April,Beauty Products,East,362,14527.54,1949.7,3.7,2911.01
+2022,June,Groceries,East,133,4630.66,1247.62,4.7,2461.6
+2020,March,Books,North,269,20400.73,4326.11,3.2,4328.98
+2023,August,Beauty Products,South,133,24664.57,6861.58,4.4,718.56
+2023,December,Beauty Products,East,241,22319.61,2830.42,2.8,4665.06
+2024,February,Groceries,South,256,23939.21,6205.85,3.6,4011.7
+2021,May,Home Decor,South,51,5811.02,1049.29,1.2,3613.91
+2023,September,Groceries,South,292,6362.69,945.56,3.9,1546.24
+2024,September,Beauty Products,South,251,25076.61,6064.84,3.7,4246.39
+2024,July,Books,North,166,29599.69,8224.77,2.5,1382.33
+2024,December,Books,North,33,2165.19,529.0,3.5,2306.36
+2022,August,Books,East,172,22752.34,4970.92,2.1,2024.15
+2024,August,Home Decor,West,340,8152.14,2312.05,2.8,3141.41
+2021,November,Fashion,East,121,12381.69,3615.63,3.2,3555.56
+2020,September,Books,West,273,29228.71,3329.3,3.2,2983.04
+2023,May,Electronics,North,85,3581.89,673.47,3.8,3442.4
+2022,February,Groceries,West,367,46231.47,9874.57,1.6,3512.37
+2023,March,Groceries,North,478,88423.45,22523.74,4.1,2183.58
+2022,December,Electronics,West,49,3561.99,544.11,2.2,4473.27
+2024,February,Books,West,61,10324.52,2405.55,4.3,4675.1
+2024,May,Electronics,West,413,63910.47,10614.94,3.6,4700.19
+2022,November,Home Decor,East,354,49811.53,10453.42,3.9,633.38
+2024,January,Beauty Products,South,42,8030.39,1635.0,2.2,4061.78
+2021,July,Home Decor,North,242,31185.91,8857.52,4.1,802.39
+2020,October,Electronics,South,197,22238.02,3879.73,3.3,947.71
+2020,April,Fashion,North,156,23627.87,6594.39,1.4,4655.14
+2020,September,Home Decor,South,108,9506.47,1419.2,3.0,4600.93
+2024,April,Beauty Products,South,294,49704.91,5676.79,1.1,815.59
+2020,May,Books,West,491,70714.27,7196.09,1.4,2192.77
+2023,December,Electronics,East,401,20075.67,5742.59,3.5,4903.25
+2023,October,Fashion,East,235,29606.79,3936.2,4.8,1352.06
+2024,August,Groceries,West,88,16054.55,4495.17,2.9,4972.58
+2023,August,Electronics,North,43,6179.07,679.29,3.2,4640.8
+2024,July,Fashion,East,37,1449.91,393.07,4.3,325.86
+2022,June,Home Decor,North,360,56442.15,13921.3,3.2,2962.82
+2024,August,Electronics,North,353,13134.41,1421.74,3.6,4903.56
+2024,March,Groceries,South,221,10707.97,2290.04,1.3,3489.81
+2021,August,Beauty Products,West,208,20067.23,3458.26,1.2,3295.38
+2021,June,Beauty Products,South,102,1405.67,192.51,3.5,4865.54
+2022,November,Books,West,356,47341.09,12978.78,3.3,2460.87
+2024,June,Fashion,South,286,11709.68,3107.77,3.5,534.09
+2022,March,Electronics,West,268,7863.79,2060.9,4.4,806.6
+2020,June,Electronics,North,308,32700.76,7376.25,4.3,1183.85
+2022,May,Books,South,337,38453.71,8382.71,2.9,4856.98
+2021,November,Beauty Products,West,450,33386.51,9539.55,2.5,437.09
+2021,October,Electronics,West,93,16144.79,1770.28,4.0,2435.77
+2023,October,Books,West,33,4966.81,861.58,3.0,2696.09
+2024,January,Electronics,East,132,22644.52,3108.93,2.2,4064.83
+2023,December,Groceries,East,115,21845.01,2828.33,2.3,3169.41
+2022,February,Electronics,West,168,13849.12,1622.02,2.6,797.77
+2022,July,Beauty Products,North,49,7008.75,1331.55,3.1,1628.71
+2022,July,Fashion,West,102,5316.2,616.83,4.6,751.53
+2022,May,Home Decor,North,70,774.54,191.72,4.4,2515.36
+2024,July,Home Decor,East,348,56284.23,6190.79,4.9,1368.93
+2024,January,Home Decor,West,219,29687.37,6000.99,3.6,4196.37
+2021,April,Beauty Products,East,380,8662.16,1506.4,3.7,3534.58
+2021,August,Home Decor,East,167,2476.46,348.33,1.2,2578.98
+2022,December,Books,South,357,25369.59,5721.36,1.3,279.07
+2024,November,Beauty Products,East,211,4512.93,544.83,3.1,1425.29
+2022,October,Groceries,East,235,41450.29,10669.47,4.3,1553.82
+2023,November,Electronics,East,390,43895.96,6220.81,2.3,4291.31
+2022,January,Electronics,East,283,11731.88,2480.61,1.0,4102.2
+2020,August,Electronics,West,195,13278.83,1449.26,1.5,969.67
+2023,August,Fashion,North,310,39653.14,7946.4,3.4,3297.08
+2020,August,Beauty Products,West,146,12313.91,2460.67,2.6,1170.97
+2022,July,Groceries,North,460,64936.69,10837.54,1.2,2721.85
+2021,May,Electronics,North,164,30511.69,3272.55,3.0,3656.43
+2023,July,Beauty Products,South,193,28486.0,7981.39,4.3,4410.81
+2022,September,Beauty Products,East,180,17511.19,3998.85,3.8,2545.32
+2022,June,Beauty Products,West,106,17886.76,3696.48,1.8,2194.54
+2020,July,Home Decor,East,153,29236.69,7565.95,1.4,240.94
+2022,May,Electronics,East,254,41260.36,7483.37,3.0,536.31
+2024,April,Electronics,South,193,34662.53,5472.78,1.9,3157.78
+2022,August,Fashion,South,48,5790.54,1303.47,1.3,2091.02
+2022,March,Fashion,North,291,7891.95,1932.73,2.4,2108.29
+2022,February,Home Decor,West,213,40782.7,12026.61,4.5,158.79
+2020,September,Electronics,North,418,61059.02,9987.31,2.6,4936.0
+2024,November,Home Decor,South,275,32414.99,5214.85,4.2,3693.82
+2022,June,Beauty Products,West,169,31809.01,3410.97,1.8,657.68
+2023,March,Books,East,437,44833.96,7343.07,3.1,3096.11
+2024,August,Electronics,West,439,37496.99,6683.69,3.0,366.48
+2021,January,Beauty Products,North,355,32333.68,3887.93,3.1,2099.08
+2021,July,Books,East,315,56938.31,14306.79,1.2,1712.52
+2021,October,Groceries,East,332,62216.39,15898.72,1.0,4904.92
+2023,November,Home Decor,South,356,34105.54,8308.07,1.4,306.16
+2023,July,Beauty Products,South,343,61712.94,17771.94,2.7,1239.23
+2021,July,Electronics,North,340,60803.47,11390.9,4.3,516.26
+2020,February,Books,North,99,12041.09,2853.01,3.7,4295.7
+2022,August,Books,West,37,5349.01,1127.05,3.6,3590.66
+2022,September,Beauty Products,South,262,5065.06,532.56,1.2,4086.2
+2022,June,Electronics,West,152,26213.39,5955.14,2.7,4744.67
+2023,July,Fashion,East,197,13515.59,3746.42,3.1,3235.84
+2022,April,Books,North,241,18782.32,3507.0,1.2,3341.46
+2020,April,Electronics,North,213,15983.68,2407.1,4.4,3003.93
+2020,May,Beauty Products,South,428,52294.51,5801.58,3.3,3904.37
+2021,August,Groceries,North,300,7966.02,1259.58,2.1,4450.92
+2020,January,Electronics,West,438,30470.06,4476.4,2.7,4132.49
+2021,December,Home Decor,South,214,20411.29,2438.99,1.2,787.56
+2020,August,Groceries,West,419,76319.07,15623.63,3.5,3681.55
+2022,July,Electronics,South,65,1740.01,353.61,3.3,3875.57
+2023,September,Groceries,North,78,4360.3,1064.38,3.0,936.42
+2022,January,Beauty Products,East,168,11035.52,2722.15,5.0,491.47
+2022,May,Electronics,East,370,56989.68,9337.61,2.8,637.33
+2021,February,Groceries,East,293,51834.88,14700.89,1.9,4072.74
+2021,May,Home Decor,South,393,36146.72,3805.79,3.8,4137.15
+2023,December,Home Decor,North,469,54613.15,6098.87,3.4,1775.21
+2024,July,Books,East,96,17089.68,3638.93,1.3,1156.21
+2020,January,Books,East,329,50397.26,12180.98,2.3,3399.33
+2023,July,Electronics,South,429,9778.3,2672.14,2.7,4714.6
+2021,February,Home Decor,South,400,64228.16,11979.74,4.9,4090.33
+2021,June,Electronics,North,317,53180.8,9550.09,2.6,2356.83
+2022,April,Groceries,South,21,3288.57,800.63,4.2,4022.89
+2022,July,Beauty Products,East,446,82490.98,17575.59,3.6,4923.51
+2024,June,Beauty Products,East,92,9670.95,2110.69,1.1,1785.29
+2024,June,Books,East,262,33466.91,4789.18,3.0,3288.93
+2024,April,Fashion,North,453,27755.64,2898.9,3.2,904.1
+2020,August,Beauty Products,North,145,26022.33,3861.98,3.3,1821.89
+2021,August,Books,North,191,12743.92,1721.82,3.6,1674.71
+2021,December,Home Decor,South,125,22334.57,3035.71,4.5,3961.51
+2021,June,Home Decor,North,361,48076.57,9254.51,3.6,4969.66
+2021,July,Electronics,East,496,25984.9,4261.13,2.5,3074.59
+2024,May,Groceries,West,60,7828.12,1714.68,4.8,2541.82
+2020,July,Beauty Products,East,446,4550.97,1239.05,3.6,1835.49
+2022,September,Home Decor,West,394,14209.67,3479.74,2.1,771.24
+2022,February,Home Decor,West,252,48030.67,11247.02,3.8,1220.26
+2021,April,Beauty Products,West,218,7252.83,1008.4,3.5,3487.03
+2024,July,Books,South,129,1608.24,185.42,4.3,698.9
+2024,May,Beauty Products,East,92,10918.42,1570.42,3.1,1978.56
+2021,March,Fashion,South,154,28916.98,8465.7,1.6,3536.1
+2020,April,Groceries,South,74,2580.58,754.77,3.0,4554.54
+2024,June,Fashion,West,297,52841.29,14087.16,4.2,4794.49
+2023,September,Fashion,West,97,3855.28,681.04,4.9,4270.48
+2020,October,Electronics,East,52,9813.84,1913.33,3.1,3673.24
+2023,February,Books,South,271,11505.55,1408.93,1.2,1379.97
+2024,October,Groceries,East,188,21268.9,5307.22,3.7,3092.2
+2023,August,Beauty Products,West,210,19278.1,3705.12,1.9,692.37
+2022,November,Books,North,410,46679.24,7928.49,1.8,2091.18
+2024,July,Groceries,East,391,50386.39,9999.2,4.5,3667.27
+2023,December,Electronics,North,96,10590.46,2416.87,2.5,4942.55
+2021,November,Beauty Products,West,401,16217.29,3358.91,4.7,1246.94
+2021,December,Groceries,West,362,28328.93,4164.05,4.8,3528.23
+2024,May,Home Decor,North,490,35863.24,5926.33,3.7,713.99
+2023,December,Books,North,36,6483.42,648.93,2.8,3816.29
+2023,January,Beauty Products,North,258,21059.27,4555.25,2.3,3407.54
+2023,June,Electronics,East,136,26529.4,2770.35,2.2,1220.66
+2020,May,Electronics,South,173,25053.24,7459.2,1.5,4866.75
+2020,February,Beauty Products,North,469,60876.57,7362.59,3.5,4196.22
+2020,May,Electronics,North,162,6005.5,1094.69,4.2,4286.76
+2023,May,Fashion,South,163,13121.99,3065.15,3.3,1494.11
+2023,April,Beauty Products,North,321,54593.21,7592.34,4.8,2634.09
+2020,December,Home Decor,North,374,30616.72,8824.66,3.1,3549.82
+2022,December,Fashion,North,430,45246.68,10280.44,3.7,1808.45
+2021,January,Electronics,North,195,8651.62,1623.11,2.9,452.76
+2020,July,Books,North,33,3479.38,408.29,2.6,1267.27
+2020,July,Beauty Products,East,253,50063.23,6554.54,4.2,304.98
+2023,January,Books,South,380,12967.23,2356.32,3.7,4871.74
+2021,June,Fashion,West,203,25544.88,6402.57,3.3,1536.81
+2020,September,Electronics,North,196,33750.86,3660.06,3.7,4406.87
+2024,May,Electronics,South,325,54883.79,13812.83,4.4,2697.15
+2022,October,Home Decor,North,186,24258.29,6102.97,1.6,3615.32
+2023,February,Fashion,East,400,77177.43,15420.06,3.8,892.11
+2024,March,Electronics,West,263,22382.93,2512.24,2.9,3061.47
+2022,January,Books,East,277,28964.31,8186.07,4.5,3549.27
+2023,July,Home Decor,West,443,18022.99,4509.52,5.0,4151.99
+2022,May,Fashion,South,335,44958.66,6972.5,4.2,4281.0
+2022,November,Books,South,134,8881.87,1549.79,4.2,1714.7
+2021,September,Fashion,North,297,9628.41,1398.95,4.2,4095.93
+2024,August,Home Decor,South,429,53183.14,7886.92,4.4,4918.71
+2022,January,Beauty Products,South,48,6769.08,1800.49,1.3,4268.82
+2024,February,Beauty Products,West,158,12677.25,2819.04,1.4,893.21
+2022,February,Fashion,South,108,8442.52,2459.52,2.1,1481.24
+2020,December,Electronics,East,391,42162.26,12376.62,2.4,2233.48
+2021,May,Home Decor,North,333,16010.5,4698.19,2.6,311.19
+2023,December,Fashion,East,88,2857.7,767.73,2.3,4371.84
+2020,March,Groceries,West,383,59658.9,6926.92,3.0,3069.13
+2022,November,Books,East,60,9522.8,1855.16,3.2,2381.34
+2023,August,Home Decor,North,375,50092.45,14751.27,4.5,3869.11
+2022,July,Groceries,North,450,46073.21,12165.79,1.3,3386.41
+2020,April,Beauty Products,North,154,3987.19,909.18,3.3,3735.77
+2024,March,Groceries,East,148,16162.39,2308.54,3.0,736.58
+2022,July,Electronics,West,53,541.78,150.76,2.2,2042.1
+2024,April,Books,West,28,3510.87,443.18,3.7,4626.17
+2020,November,Groceries,North,27,3853.1,924.88,1.2,3127.84
+2020,January,Books,North,178,18767.52,2392.97,1.7,691.55
+2023,September,Home Decor,East,490,90930.82,12611.47,4.9,4075.86
+2022,January,Books,North,114,21023.81,4797.02,4.6,2760.57
+2022,April,Beauty Products,South,297,6261.05,1630.48,4.2,4400.49
+2024,April,Groceries,South,71,2163.23,279.47,5.0,4755.37
+2022,October,Home Decor,South,227,21464.44,5173.01,2.5,3917.98
+2024,December,Fashion,West,318,52502.29,15030.68,3.5,2260.95
+2022,November,Home Decor,North,87,13450.65,1914.03,2.4,375.62
+2021,June,Fashion,South,257,2858.22,832.54,4.3,387.9
+2023,October,Home Decor,South,258,26227.58,4531.75,4.2,2771.96
+2020,November,Groceries,North,84,15711.49,3196.61,1.6,1902.75
+2023,April,Groceries,North,91,13442.53,3561.45,3.6,757.79
+2024,October,Fashion,South,425,33779.8,10044.06,5.0,1581.33
+2024,June,Groceries,East,276,52315.62,5663.86,4.3,198.55
+2023,August,Home Decor,West,360,59587.7,6445.44,2.1,2715.59
+2023,September,Fashion,North,395,24127.97,6070.62,2.2,2099.94
+2024,August,Fashion,West,194,6920.91,1198.33,4.5,855.56
+2022,November,Books,North,453,4689.11,716.84,3.8,2156.62
+2023,December,Books,West,249,21741.57,5166.23,2.9,4059.59
+2024,February,Books,North,58,1179.31,225.72,2.9,563.96
+2024,July,Beauty Products,East,53,6223.65,1613.3,3.7,1160.62
+2022,January,Electronics,West,277,14537.21,2822.17,3.6,2752.59
+2020,February,Groceries,North,288,53434.07,9809.24,4.2,4314.73
+2020,October,Electronics,East,352,22544.81,2413.58,3.1,2873.32
+2022,February,Books,West,227,6177.41,1336.97,2.3,1109.26
+2022,August,Books,North,355,8234.53,1151.37,1.4,4228.69
+2022,August,Electronics,East,149,7072.33,1241.44,2.7,1145.21
+2021,October,Fashion,West,185,33526.44,9657.14,3.0,895.84
+2022,October,Home Decor,East,84,7141.61,1232.68,4.8,4447.57
+2021,November,Books,West,275,13819.68,3061.31,3.0,1784.89
+2022,October,Groceries,South,357,10618.33,1449.18,1.6,4058.56
+2024,May,Fashion,North,298,45717.46,8436.76,4.4,3231.15
+2022,June,Beauty Products,South,73,9191.78,1310.09,2.5,890.21
+2020,July,Fashion,East,191,3593.65,975.27,4.9,4036.72
+2021,October,Groceries,East,111,6009.38,1239.06,3.5,4448.04
+2024,April,Beauty Products,South,190,9819.01,1383.7,1.7,4872.78
+2021,June,Fashion,West,377,7644.6,2058.47,2.5,172.03
+2020,April,Books,South,329,6471.14,724.98,3.1,1879.21
+2020,February,Home Decor,North,299,32194.64,5232.38,2.8,1645.33
+2020,October,Electronics,West,452,33931.44,5684.21,1.7,4667.04
+2024,April,Groceries,North,287,52981.21,5880.04,3.8,3138.2
+2021,September,Home Decor,West,275,17423.44,2898.7,4.6,4487.53
+2023,April,Electronics,East,293,22129.72,3325.31,4.7,2494.54
+2022,October,Beauty Products,North,454,86125.67,9629.87,2.7,2203.28
+2021,June,Fashion,East,473,53557.46,6179.76,2.4,602.83
+2024,November,Electronics,East,378,10216.53,1554.99,3.8,3817.24
+2020,December,Groceries,West,344,8196.52,2319.16,1.5,2447.89
+2024,April,Books,North,261,35926.51,10361.69,2.7,3753.45
+2023,April,Books,South,73,14283.78,1987.86,2.6,1263.09
+2021,January,Electronics,West,125,21711.66,2656.51,2.4,2872.99
+2024,December,Electronics,East,428,80545.84,20172.34,2.7,4712.18
+2023,October,Electronics,West,446,18596.62,2542.11,1.2,3439.64
+2022,November,Books,North,468,10252.52,2294.11,4.3,3043.98
+2022,September,Groceries,North,282,14606.25,1753.39,3.1,2221.33
+2021,June,Beauty Products,West,157,7144.89,1602.61,2.0,1444.97
+2023,May,Groceries,West,76,6884.23,749.49,4.8,2842.56
+2022,January,Home Decor,North,357,19697.42,5215.19,1.2,1119.99
+2022,April,Home Decor,South,30,5134.52,566.9,1.9,884.93
+2022,February,Fashion,North,349,69551.8,9749.96,1.1,1594.03
+2020,October,Home Decor,East,417,71924.13,18375.28,1.0,4698.42
+2022,November,Groceries,North,476,59692.11,10157.38,1.5,4256.51
+2022,April,Home Decor,West,58,8680.25,1691.33,4.5,3628.23
+2022,December,Home Decor,East,358,25213.33,3601.22,4.8,3863.04
+2023,July,Beauty Products,East,269,18989.36,3173.85,5.0,1111.94
+2020,July,Fashion,East,77,5487.04,597.09,3.4,3704.31
+2022,July,Home Decor,South,99,7886.01,1459.49,4.7,1796.07
+2022,December,Home Decor,East,224,10322.04,2718.81,2.6,4379.12
+2022,October,Beauty Products,South,195,7905.02,1370.04,4.5,4512.4
+2023,August,Books,North,477,48249.7,8237.87,2.0,3848.4
+2020,June,Beauty Products,West,90,7736.84,1758.84,3.9,3694.56
+2020,August,Fashion,West,242,18209.45,4462.99,2.5,120.8
+2024,May,Beauty Products,East,179,17380.58,2774.41,3.1,4264.27
+2024,December,Books,East,256,42096.75,8690.52,1.2,3037.7
+2023,November,Electronics,East,458,68058.61,19697.67,3.6,3581.3
+2021,March,Groceries,North,121,8543.56,2549.04,3.3,3805.12
+2023,November,Fashion,West,396,35744.1,9327.99,3.2,2764.22
+2020,February,Beauty Products,East,147,25125.9,3892.19,2.9,1009.03
+2023,September,Fashion,West,281,10753.24,1202.31,3.4,3537.31
+2021,August,Groceries,South,227,24867.2,2659.3,4.0,2292.62
+2024,December,Groceries,West,220,22936.84,5170.29,2.4,3527.25
+2021,April,Groceries,South,333,51135.28,9460.58,1.2,4055.43
+2020,June,Books,South,472,23422.85,3399.75,1.6,4171.27
+2021,January,Beauty Products,North,47,5384.66,1154.28,1.3,3726.05
+2021,June,Home Decor,West,331,28308.94,8391.85,2.2,3326.97
+2022,December,Books,South,297,6632.65,1573.48,2.3,439.44
+2024,February,Electronics,North,308,56907.24,7880.34,3.7,4322.44
+2020,December,Electronics,West,159,21892.16,4611.14,1.5,2021.31
+2024,March,Fashion,West,473,80266.7,19741.11,2.7,3143.27
+2021,September,Books,South,378,8870.66,1773.45,3.7,3454.35
+2021,May,Fashion,East,227,39950.07,10791.26,4.4,3467.95
+2021,April,Books,South,226,4334.58,732.4,1.4,3013.19
+2021,September,Home Decor,West,452,51297.91,13195.27,3.4,1462.61
+2023,August,Groceries,South,224,37491.54,11244.88,2.5,1992.65
+2023,July,Electronics,North,109,8254.37,1846.56,4.1,4794.16
+2021,April,Home Decor,East,187,12922.21,2964.94,4.5,4804.18
+2021,May,Electronics,South,447,71496.85,11096.69,1.7,1635.71
+2024,November,Fashion,South,112,10572.28,2728.5,2.2,366.46
+2022,February,Electronics,East,446,25163.26,3120.53,3.4,2431.53
+2023,September,Electronics,South,279,15821.76,2041.95,2.3,3384.95
+2023,March,Fashion,East,246,15765.11,2354.45,1.4,300.41
+2020,February,Groceries,West,110,11997.01,3498.84,3.2,1093.24
+2021,June,Electronics,South,70,3594.91,618.48,3.5,983.55
+2021,May,Beauty Products,East,20,1369.91,189.27,2.8,1962.8
+2020,January,Fashion,South,449,56818.54,9692.13,1.5,3724.84
+2022,February,Electronics,South,479,16441.85,2896.62,2.0,1107.77
+2022,January,Home Decor,South,405,49053.27,11913.65,2.3,332.64
+2022,March,Beauty Products,North,252,8354.28,1340.7,4.5,2805.16
+2020,July,Books,West,331,31062.79,7010.58,5.0,631.28
+2022,June,Beauty Products,North,340,52214.12,5405.44,1.7,2185.67
+2021,June,Electronics,North,423,70156.08,19156.34,4.7,3851.43
+2022,August,Beauty Products,West,224,22852.6,6079.32,1.3,4449.97
+2023,October,Groceries,West,447,70648.63,19048.48,1.1,2247.99
+2023,September,Books,North,242,36541.15,6162.95,4.3,1582.93
+2020,February,Groceries,East,282,12612.9,2641.73,3.0,1726.59
+2021,April,Home Decor,East,88,10126.44,1211.13,3.9,3718.84
+2024,December,Fashion,East,129,1530.12,321.76,3.4,4060.55
+2024,July,Electronics,North,160,16939.37,5065.13,2.2,4307.44
+2024,September,Beauty Products,North,91,1675.18,197.32,2.4,2055.08
+2024,December,Beauty Products,North,63,3116.57,476.05,1.5,4933.32
+2023,March,Groceries,East,229,43271.4,6865.69,2.8,4106.96
+2023,June,Beauty Products,West,213,4399.96,901.15,3.4,785.56
+2021,April,Home Decor,South,130,9120.84,1272.8,2.0,3046.41
+2021,June,Home Decor,West,476,78591.7,12718.8,2.9,4492.35
+2022,December,Home Decor,South,177,30058.31,7241.01,3.1,3396.89
+2021,October,Beauty Products,North,383,59103.1,15776.98,1.1,4524.01
+2022,September,Books,South,431,80026.24,23386.29,1.8,2650.31
+2022,August,Books,North,72,10857.07,3085.31,5.0,4024.08
+2021,February,Fashion,North,222,4723.0,1368.95,4.1,2746.57
+2023,January,Books,South,455,16452.67,2398.09,3.0,4081.2
+2020,October,Beauty Products,West,495,53666.98,9812.66,4.9,377.5
+2020,August,Electronics,North,432,81181.39,22546.17,4.0,2397.73
+2023,July,Beauty Products,East,80,10966.98,2345.83,1.4,3231.38
+2024,January,Fashion,South,296,12070.02,3259.79,1.9,3009.47
+2021,November,Home Decor,North,54,1572.48,384.1,2.4,2923.59
+2020,May,Home Decor,South,325,24612.1,5437.76,2.5,3909.31
+2021,January,Books,South,159,19596.4,1963.58,1.1,3095.4
+2021,December,Electronics,East,223,22206.9,6118.61,1.9,2506.19
+2020,June,Books,North,258,31732.9,6003.26,2.9,3228.76
+2023,June,Groceries,North,459,83634.84,14872.89,1.2,3684.24
+2022,December,Fashion,West,103,7125.27,2055.17,4.5,4496.49
+2024,May,Beauty Products,South,326,36484.87,8248.26,4.5,1580.65
+2023,May,Home Decor,South,321,17584.98,4336.5,1.1,1436.07
+2021,June,Groceries,South,442,19661.31,5149.16,2.2,4620.24
+2020,July,Groceries,East,198,3653.18,966.82,4.7,1039.8
+2021,November,Electronics,South,316,8828.05,1502.71,3.0,3783.22
+2023,May,Electronics,West,220,36700.75,10785.11,1.5,1781.23
+2021,May,Electronics,West,94,18204.63,5386.68,4.9,2546.97
+2021,October,Fashion,North,200,36459.34,10272.68,1.1,4603.26
+2023,January,Fashion,West,38,5606.14,1577.25,3.2,4788.84
+2024,October,Groceries,East,422,13513.47,2667.7,3.1,495.29
+2021,January,Electronics,North,85,14304.92,2047.38,2.1,370.55
+2024,May,Groceries,South,434,66941.72,14621.33,2.5,2944.75
+2021,October,Beauty Products,North,211,19643.44,2722.46,1.5,218.01
